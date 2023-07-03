@@ -1,0 +1,2 @@
+I'm adding text to you
+Let's try git add.
